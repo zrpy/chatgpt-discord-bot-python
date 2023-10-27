@@ -1,7 +1,7 @@
 # chatgpt-discord-bot-python
 無料でchatgptを利用しましょう<br>
 Use chatgpt for free<br>
-[Get Apikey](https://api.chatanywhere.org/v1/oauth/free/github/render)
+[Get Apikey](https://api.chatanywhere.org/v1/oauth/free/github/render)<br>
 discord:`@za81`
 # How to use?
 ```
