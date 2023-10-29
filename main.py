@@ -1,5 +1,5 @@
 import openai,discord,os
-openai.api_key=os.getenv("apikey")
+openai.api_key=os.getenv("api")
 openai.api_base="https://api.chatanywhere.cn/v1"
 client=discord.Client(intents=discord.Intents.all())
 
